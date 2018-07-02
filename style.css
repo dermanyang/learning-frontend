@@ -1,0 +1,47 @@
+.main-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  top: 50vh;
+  background-color: white;
+  border-color: dodgerblue;
+}
+
+.form-group{
+  display: flex;
+  justify-content: center;
+}
+
+
+.form-control{
+    border-color: dodgerblue;
+    border-radius: 0px;
+}
+.well{
+	height: 100%;
+	margin-bottom: 0;
+  background-color: white;
+  color: gray;
+  border-color: dodgerblue;
+}
+
+.input-group{
+  border-radius: 0;
+}
+
+.inputGroupContainer{
+  border-color: dodgerblue;
+  border-radius: 0 0  ;
+
+}
+
+#first_name{
+  background-color: red;
+}
+#register{
+}
+.btn{
+
+  width: 350px;
+  border-color: dodgerblue;
+}
