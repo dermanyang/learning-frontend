@@ -7,3 +7,6 @@ See files twilio.html twilio.js twilio.css
 
 # Social Network Clone
 Practicing API usage with this toy social network. 
+
+# minesweeper
+toy minesweeper replica
